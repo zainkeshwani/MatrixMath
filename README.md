@@ -1,2 +1,3 @@
 # MatrixMath
 Given a matrix, this program will perform the operations that you ask it to (depending on whether or not they are possible)
+When I was creating my Vector Calculator (see repository), I realized that more often than not, vectors are represnted as matrices. This gave me the idea to create a calculator for matrices as well. The calculator supports a vast range of operations, from simple things such as addition or scalar multiplication, as well as more complex things like finding transposes, adjoints, and much more. In said program, I also made my own exceptions for times where calculations could not be performed due to preconditions (ex: adding two matrices of different orders or finding the inverse of matrices that have a determinant of zero).
